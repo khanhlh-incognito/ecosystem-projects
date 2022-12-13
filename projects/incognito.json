@@ -3,12 +3,8 @@
   "slug": "Incognito-Chain",
   "date": "2019-01-01",
   "highlight": "Incognito is a global community of privacy-minded builders seeking to protect the world from surveillance and control. We build privacy-protecting, blockchain-based financial products for the future of money.",
-  "logo": "INSERT",
-  "tags": [
-    "DEX",
-    "privacy",
-    "multi-chain"
-  ],
+  "logo": "/img/incognito.png",
+  "tags": ["dex","multi-chain","wallet","privacy"],
   "status": "live",
   "website": "https://incognito.org/",
   "twitter": "https://twitter.com/incognitochain",
